@@ -1,0 +1,6 @@
+✅ URI is a valid format
+Protocol: mongodb+srv:
+Username: ravisj213
+Password Hidden: Yes
+Host: cluster0.y3mns.mongodb.net
+Pathname (DB Name): /CMS_Database
